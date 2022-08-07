@@ -82,3 +82,16 @@
 
 </details>
 <br>
+
+## 4. Responsive Web Design
+
+Було цікаво ознайомитися з сітками і застосувати нові знання в ігровій формі.
+
+<details>
+  <summary>Скриншоти</summary>
+
+![flexbox](/task_responsive_web_design/flex_froggy.png)
+![grid](/task_responsive_web_design/grid_garden.png)
+
+</details>
+<br>
