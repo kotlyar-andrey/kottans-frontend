@@ -101,3 +101,21 @@
 Новим був метод роботи з чекбоксом, коли його можна сховати, а замість вікористовувати стилізований label
 
 [Code](https://github.com/kotlyar-andrey/html-css-popup) | [Demo](https://kotlyar-andrey.github.io/html-css-popup/)
+
+## 6. JS Basics
+
+Теорія для мене була скоріше повторенням, а от задачі - це те, чого мені не вистачало, а саме застосувати знання до практичних вправ. Особливо спободобалися завдання із останньої группи, довелося помізкувати, але впорався самостійно з усіма.
+
+<details>
+  <summary>Скриншоти</summary>
+
+![coursera](/task_js_basics/coursera4.png)
+![basic_javascript](/task_js_basics/basic_javascript.png)
+![es6_challenges](/task_js_basics/es6_challenges.png)
+![basic_data_structures](/task_js_basics/basic_data_structures.png)
+![basic_algorithm_scripting](/task_js_basics/basic_algorithm_scripting.png)
+![functional_programming](/task_js_basics/functional_programming.png)
+![intermediate_algorithm_scripting](/task_js_basics/intermediate_algorithm_scripting.png)
+
+</details>
+<br>
