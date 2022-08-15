@@ -95,3 +95,9 @@
 
 </details>
 <br>
+
+## 5. HTML & CSS Practice
+
+Новим був метод роботи з чекбоксом, коли його можна сховати, а замість вікористовувати стилізований label
+
+[Code](https://github.com/kotlyar-andrey/html-css-popup) | [Demo](https://kotlyar-andrey.github.io/html-css-popup/)
