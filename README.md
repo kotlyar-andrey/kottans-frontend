@@ -119,3 +119,18 @@
 
 </details>
 <br>
+
+## 7. DOM
+
+Практично всі методи для роботи з dom були для мене новими. Було корисно з ними розібратися і застосувати до виконання практичного завдання.
+
+[Code](https://github.com/kotlyar-andrey/dom-ds) | [Demo](https://kotlyar-andrey.github.io/dom-ds/)
+
+<details>
+  <summary>Скриншоти</summary>
+
+![coursera](/task_js_dom/coursera.png)
+![intermediate_algorithm_scripting](/task_js_dom/intermediate_algorithm_scripting.png)
+
+</details>
+<br>
