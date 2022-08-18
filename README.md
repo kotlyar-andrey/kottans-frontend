@@ -138,3 +138,19 @@
 ## 8. Building a Tiny JS World
 
 [Code](https://github.com/kotlyar-andrey/a-tiny-JS-world) | [Demo](https://kotlyar-andrey.github.io/a-tiny-JS-world/)
+
+## 9. Object Oriented JS
+
+Раніше вважав prototype дуже складною темою і обходив стороною. Але зараз, щоб застосувати на практиці у завданні, довелося з цим розібратися. Матеріали використовував інші, оскільки приведені пояснють лише початкові відомості про прототипи.
+
+Програмувати гру спочатку було складно, нічого не зрозуміло, але потім "в'їхав" в приведений код і понеслося)
+
+[Code](https://github.com/kotlyar-andrey/frontend-nanodegree-arcade-game) | [Demo](https://kotlyar-andrey.github.io/frontend-nanodegree-arcade-game/)
+
+<details>
+  <summary>Скриншоти</summary>
+
+![codewars](/task_js_oop/codewars.png)
+
+</details>
+<br>
