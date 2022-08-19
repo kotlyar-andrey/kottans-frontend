@@ -154,3 +154,7 @@
 
 </details>
 <br>
+
+## 10. OOP exercise
+
+[Code](https://github.com/kotlyar-andrey/a-tiny-JS-world) | [Demo](https://kotlyar-andrey.github.io/a-tiny-JS-world/)
