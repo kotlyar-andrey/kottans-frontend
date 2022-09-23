@@ -158,3 +158,11 @@
 ## 10. OOP exercise
 
 [Code](https://github.com/kotlyar-andrey/a-tiny-JS-world) | [Demo](https://kotlyar-andrey.github.io/a-tiny-JS-world/)
+
+## 12. Memory pair game
+
+[Code](https://github.com/kotlyar-andrey/memory) | [Demo](https://kotlyar-andrey.github.io/memory/)
+
+## 14. Friends App
+
+[Code](https://github.com/kotlyar-andrey/friends-app) | [Demo](https://kotlyar-andrey.github.io/friends-app/)
